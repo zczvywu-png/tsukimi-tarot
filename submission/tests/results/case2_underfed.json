@@ -1,0 +1,18 @@
+{
+ "mode": "ai",
+ "empathy": "工作上有些事情压着你，让你想来看看——我在这里，可以慢慢说。",
+ "understanding": {
+  "happening": [],
+  "options": [],
+  "emotions": [],
+  "values": [],
+  "constraints": [],
+  "missing": [
+   "具体发生了什么，或者是什么让你现在想看工作方面的牌",
+   "是面临某个决定，还是有某种持续的困扰或疑问"
+  ]
+ },
+ "need_clarify": true,
+ "clarify_question": "你现在想看工作，是因为有个具体的事情卡住了，还是有种说不清楚的感觉让你不太安心？",
+ "ready": false
+}
